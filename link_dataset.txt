@@ -1,0 +1,2 @@
+datasets:
+https://www.kaggle.com/datasets/muhammadarfan7/classification-image-jahe-lengkuas-kunyit-resize
